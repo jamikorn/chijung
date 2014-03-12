@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CalculateParkKo</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Park - Ko</string>
+
+    <color name="hellokitty">#ff0060</color>
+
+    <string name="birthdate">วัน/เดือน/ปีเกิด</string>
+    <string name="firstname">ชื่อ</string>
+    <string name="lastname">นามสกุล</string>
+    <string name="facebookname">ชื่อเฟสบุค</string>
+    <string name="gender">เพศ</string>
+
+</resources>
